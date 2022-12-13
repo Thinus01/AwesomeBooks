@@ -96,7 +96,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/Thinus01/Awesome-books``**
+**``git clone https://github.com/Thinus01/AwesomeBooks``**
 
 
 <!--
